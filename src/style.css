@@ -5,10 +5,14 @@
   color: antiquewhite;
 }
 
+h1 {
+}
+
 main {
   background-color: rgb(32, 33, 36);
-  padding: 5em;
-  margin: 100px;
+  padding: 8em;
+  margin: auto;
+  margin-top: 100px;
   width: 29em;
   border-radius: 100px;
 }
